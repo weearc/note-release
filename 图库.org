@@ -1,0 +1,26 @@
+* 需求列表
+:PROPERTIES:
+:CREATED:  [2019-03-20 Wed 17:37]
+:END:
+
+** 权限
+:PROPERTIES:
+:CREATED:  [2019-03-20 Wed 17:38]
+:END:
+
+禁止用户删除过往内容
+
+** 用户管理
+:PROPERTIES:
+:CREATED:  [2019-03-20 Wed 17:38]
+:END:
+
+接入其他用户管理系统
+
+** 安全
+:PROPERTIES:
+:CREATED:  [2019-03-20 Wed 17:39]
+:END:
+
+性能问题，备份问题
+
